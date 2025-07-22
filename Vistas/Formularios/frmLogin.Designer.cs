@@ -51,7 +51,7 @@
             this.groupBox1.Controls.Add(this.txtuser);
             this.groupBox1.Controls.Add(this.btnIniciar);
             this.groupBox1.ForeColor = System.Drawing.Color.Black;
-            this.groupBox1.Location = new System.Drawing.Point(502, 129);
+            this.groupBox1.Location = new System.Drawing.Point(334, 96);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(349, 390);
             this.groupBox1.TabIndex = 21;
@@ -120,6 +120,7 @@
             this.txtuser.Name = "txtuser";
             this.txtuser.Size = new System.Drawing.Size(168, 20);
             this.txtuser.TabIndex = 16;
+            this.txtuser.TextChanged += new System.EventHandler(this.txtuser_TextChanged);
             // 
             // btnIniciar
             // 

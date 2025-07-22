@@ -23,3 +23,28 @@ C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Modelos\obj\Debug\Modelos
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Modelos\obj\Debug\Modelos.csproj.Up2Date
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Modelos\obj\Debug\Modelos.dll
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Modelos\obj\Debug\Modelos.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Modelos.dll.config
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Modelos.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Modelos.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Licensing.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Utils.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\System.CodeDom.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\bin\Debug\System.CodeDom.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\obj\Debug\Modelos.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Modelos\obj\Debug\Modelos.pdb

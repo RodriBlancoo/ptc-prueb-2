@@ -21,5 +21,41 @@ namespace Vistas.Formularios
         {
 
         }
+
+        private void pnlPrincipal_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnTickets_Click(object sender, EventArgs e)
+        {
+            AbrirFormularioBoletos();
+        }
+
+        private void AbrirFormularioBoletos()
+        {
+
+            pnlPrincipal.Controls.Clear();
+            frmBoleto formularioBoletos = new frmBoleto();
+
+            formularioBoletos.TopLevel = false;
+            formularioBoletos.FormBorderStyle = FormBorderStyle.None;
+            formularioBoletos.Dock = DockStyle.Fill;
+
+            pnlPrincipal.Controls.Add(formularioBoletos);
+            formularioBoletos.Show();
+
+
+
+
+
+
+
+        }
     }
-}
+
+   
+  }
+
+    
+

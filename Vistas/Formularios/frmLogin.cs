@@ -19,7 +19,26 @@ namespace Vistas.Formularios
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-         
+            string usuarioCorrecto = "Admin";
+            string claveCorrecta = "airways";
+
+            if (txtuser.Text == usuarioCorrecto && txtPass.Text == claveCorrecta)
+            {
+                this.Hide();
+                frmPrincipal principal = new frmPrincipal();
+                principal.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña incorrectos", "Error de login",
+                              MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        
+    }
+
+        private void txtuser_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

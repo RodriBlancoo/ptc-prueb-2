@@ -31,3 +31,35 @@ C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Vistas\bin\Debug\Newtonso
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Vistas\bin\Debug\System.CodeDom.xml
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Vistas\obj\Debug\Vistas.csproj.Up2Date
 C:\Users\rodri\OneDrive\Documentos\Ejer guia 2\PTC-SAA\Vistas\obj\Debug\Vistas.Formularios.frmPrincipal.resources
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Vistas.exe
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Vistas.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Licensing.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Utils.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Modelos.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\System.CodeDom.dll
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Modelos.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Modelos.dll.config
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\bin\Debug\System.CodeDom.xml
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.Formularios.frmPrincipal.resources
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.exe
+C:\Users\JP\Desktop\ptc-prueb-2\Vistas\obj\Debug\Vistas.pdb
