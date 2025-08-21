@@ -52,10 +52,38 @@ namespace Vistas.Formularios
 
 
         }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEmpleado_Click(object sender, EventArgs e)
+        {
+            AbrirFormularioEmpleado();
+        }
+
+        private void AbrirFormularioEmpleado()
+        {
+
+            pnlPrincipal.Controls.Clear();
+            frmEmpleado formularioEmpleados = new frmEmpleado();
+
+            formularioEmpleados.TopLevel = false;
+            formularioEmpleados.FormBorderStyle = FormBorderStyle.None;
+            formularioEmpleados.Dock = DockStyle.Fill;
+
+            pnlPrincipal.Controls.Add(formularioEmpleados);
+            formularioEmpleados.Show();
+        }
     }
+}
+
+
+    
 
    
-  }
+  
 
     
 

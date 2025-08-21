@@ -19,8 +19,8 @@ namespace Vistas.Formularios
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            string usuarioCorrecto = "Admin";
-            string claveCorrecta = "airways";
+            string usuarioCorrecto = "123";
+            string claveCorrecta = "45";
 
             if (txtuser.Text == usuarioCorrecto && txtPass.Text == claveCorrecta)
             {

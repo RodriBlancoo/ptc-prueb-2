@@ -63,6 +63,26 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_empleado_50 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-empleado-50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_empleado_50__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-empleado-50 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Imagen_de_WhatsApp_2025_06_30_a_las_15_24_54_92fb0de8 {
             get {
                 object obj = ResourceManager.GetObject("Imagen de WhatsApp 2025-06-30 a las 15.24.54_92fb0de8", resourceCulture);
